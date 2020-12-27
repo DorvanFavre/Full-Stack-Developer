@@ -34,6 +34,7 @@ Toute les manières sont bonnes pour trouver de l'inspiration
 
 
 <br />
+
 ## Répertorier ce que j'ai trouvé
 
   L'objectif est d'avoir un maximum de matériel a disposition pour se lancer à coder
@@ -46,6 +47,7 @@ Toute les manières sont bonnes pour trouver de l'inspiration
 
 
 <br />
+
 ## Apprendre
 
 - Connaître un maximum de widgets
@@ -57,6 +59,7 @@ Toute les manières sont bonnes pour trouver de l'inspiration
 - Coder des design trouvé sur internet (avec des animations c'est mieux)
 
 <br />
+
 ## Développer
 
   - Créer des class réutilisable 
