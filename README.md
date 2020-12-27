@@ -18,6 +18,8 @@ Finalement Le **Développement** c'est coder. Apprendre en pratiquant.
 
 - [Design](#design)
 
+<br />
+<br />
 
 
 # Design
@@ -32,7 +34,6 @@ Toute les manières sont bonnes pour trouver de l'inspiration
 
 
 <br />
-
 ## Répertorier ce que j'ai trouvé
 
   L'objectif est d'avoir un maximum de matériel a disposition pour se lancer à coder
@@ -40,8 +41,11 @@ Toute les manières sont bonnes pour trouver de l'inspiration
 ### Design UI par style
 
 - [Minimaliste](https://www.pinterest.fr/dorvanfavre/ui-minimaliste/)
+- [Chroma](https://www.pinterest.fr/dorvanfavre/ui-chroma/)
+- [Illustrations](https://www.pinterest.fr/dorvanfavre/ui-illustrations/)
 
 
+<br />
 ## Apprendre
 
 - Connaître un maximum de widgets
@@ -52,6 +56,15 @@ Toute les manières sont bonnes pour trouver de l'inspiration
   
 - Coder des design trouvé sur internet (avec des animations c'est mieux)
 
+<br />
 ## Développer
 
   - Créer des class réutilisable 
+
+
+<br />
+<br />
+<br />
+
+
+
