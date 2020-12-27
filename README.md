@@ -1,18 +1,30 @@
 # Flutter
 
-## Contenu
+
+
+## Tables de matières
 
 - [Design](#design)
 
+
+
 # Design
 
-## Recherche
+## Rechercher des idées
 
-Decouvrir les secret du design au trvers de :
+Toute les manières sont bonnes pour trouver de l'inspiration
 
 ### Sites / Blogs
 
 - [Envato](https://envato.com/blog/) - Article et vidéos sur le design en général et web
 
-##
-Toute les manière sont bonne pour trouver de l'inspiration
+
+
+## Répertorier ce que j'ai trouvé
+
+  L'objectif est d'avoir un maximum de matériel a disposition pour un future projet
+  
+### Design UI par style
+
+- [Minimaliste](https://www.pinterest.fr/dorvanfavre/ui-minimaliste/)
+
