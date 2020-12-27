@@ -69,5 +69,10 @@ Toute les manières sont bonnes pour trouver de l'inspiration
 <br />
 <br />
 
+# Architecture
+
+## Developpement
+
+Créer des class reutilisables dans mes projets.
 
 
