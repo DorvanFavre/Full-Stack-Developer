@@ -75,4 +75,8 @@ Toute les manières sont bonnes pour trouver de l'inspiration
 
 Créer des class reutilisables dans mes projets.
 
+### Features
+
+- [AuthFeature](Code/Features/auth_feature) - Login/Register page + UserBuilder
+
 
