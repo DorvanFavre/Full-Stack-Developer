@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+
 class Utilisateur {
   static final String collectionRef = 'Users';
   static final String userIdField = 'userId';
@@ -8,7 +9,6 @@ class Utilisateur {
   static final String imageIdField = 'imageId';
   static final String isAdminField = 'isAdmin';
   
-
   factory Utilisateur.fromEntity(Map<String, dynamic> data) {
     return Utilisateur(
       userId: data[userIdField] ?? 'null',
@@ -48,4 +48,7 @@ class Utilisateur {
       isAdminField: isAdmin,
     };
   }
+
+
+
 }
