@@ -2,12 +2,24 @@ import 'package:flutter/material.dart';
 
 /// Created by Dorvan
 /// 12.01.2021
-/// 
+///
 class ParadeText extends StatefulWidget {
+  /// The texts that will parade
   final List<String> texts;
+
+  /// Thw widget that will be displayed
+  final Widget Function(String text) itemBuilder;
+
+  /// How long(pix) the text slides
   final double translation;
+
+  /// Duration between two texts
   final Duration duration;
+
+  /// if true, the parade will loop forever
   final bool repeat;
+
+  /// trigger when all texts has been shown (only if repeate == false)
   final void Function() onEnd;
 
   /// Parade Text
@@ -17,6 +29,7 @@ class ParadeText extends StatefulWidget {
   ///
   ParadeText(
       {@required this.texts,
+      @required this.itemBuilder,
       this.translation = 40,
       this.duration = const Duration(milliseconds: 4000),
       this.repeat = false,
@@ -85,15 +98,18 @@ class _ParadeTextState extends State<ParadeText>
     // Add animation controller logic
     animationController.addStatusListener((status) {
       if (status == AnimationStatus.completed) {
-        index++;
-        if (index >= widget.texts.length && widget.repeat == true) {
-          index = 0;
-        }
-        if (index < widget.texts.length) {
+        if (index + 1 < widget.texts.length) {
+          index++;
           setState(() {});
           animationController.forward(from: 0);
         } else {
-          widget.onEnd();
+          if (widget.repeat == true) {
+            index = 0;
+            setState(() {});
+            animationController.forward(from: 0);
+          } else {
+            widget.onEnd();
+          }
         }
       }
     });
@@ -113,22 +129,16 @@ class _ParadeTextState extends State<ParadeText>
   @override
   Widget build(BuildContext context) {
     return AnimatedBuilder(
-      animation: animationController,
-      builder: (context, child) {
-        return Opacity(
-          opacity: opacityAnimation.value,
-          child: Transform.translate(
-            offset: Offset(0, translateAnimation.value),
-            child: child,
-          ),
-        );
-      },
-      child: Text(
-        widget.texts[index],
-        textAlign: TextAlign.center,
-        style: TextStyle(
-            fontSize: 40, fontWeight: FontWeight.w500, color: Colors.white),
-      ),
-    );
+        animation: animationController,
+        builder: (context, child) {
+          return Opacity(
+            opacity: opacityAnimation.value,
+            child: Transform.translate(
+              offset: Offset(0, translateAnimation.value),
+              child: child,
+            ),
+          );
+        },
+        child: widget.itemBuilder(widget.texts[index]));
   }
 }
