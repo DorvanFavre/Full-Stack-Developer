@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 /// 12.01.2021
 ///
 ///
-class SlideAnimation extends StatefulWidget {
+class EnterSmoothly extends StatefulWidget {
   /// Widget to animate
   final Widget child;
 
@@ -22,7 +22,7 @@ class SlideAnimation extends StatefulWidget {
   /// Wrap a widget to make it enter smoothly when its build
   ///
   ///
-  SlideAnimation({
+  EnterSmoothly({
     @required this.child,
     this.duration = const Duration(milliseconds: 1000),
     this.delay = const Duration(milliseconds: 0),
@@ -30,10 +30,10 @@ class SlideAnimation extends StatefulWidget {
   });
 
   @override
-  _SlideAnimationState createState() => _SlideAnimationState();
+  _EnterSmoothlyState createState() => _EnterSmoothlyState();
 }
 
-class _SlideAnimationState extends State<SlideAnimation>
+class _EnterSmoothlyState extends State<EnterSmoothly>
     with SingleTickerProviderStateMixin {
   AnimationController _controller;
   CurvedAnimation _curvedAnimation;
