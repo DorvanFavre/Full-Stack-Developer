@@ -14,7 +14,8 @@ class WhiteSlideTransition extends PageRouteBuilder {
   WhiteSlideTransition(
       {@required this.newPage, this.offset = const Offset(0, 1)})
       : super(
-            transitionDuration: Duration(milliseconds: 800),
+            transitionDuration: Duration(milliseconds: 1000),
+            reverseTransitionDuration: Duration(milliseconds: 1000),
             pageBuilder: (context, animation, secondaryAnimation) {
               return newPage;
             },
@@ -26,7 +27,6 @@ class WhiteSlideTransition extends PageRouteBuilder {
             ) {
               return Stack(
                 children: [
-
                   // Transparent slide
                   SlideTransition(
                     position: Tween<Offset>(begin: offset, end: Offset.zero)
@@ -49,11 +49,22 @@ class WhiteSlideTransition extends PageRouteBuilder {
                     ),
                   ),
 
+                  /*SlideTransition(
+                    position: Tween<Offset>(begin: offset, end: Offset.zero)
+                        .animate(CurvedAnimation(
+                            curve: Interval(0.2, 0.8, curve: Curves.easeInCubic),
+                            parent: animation)),
+                    child: Container(
+                      color: Colors.white,
+                    ),
+                  ),*/
+
                   // New Screen slide
                   SlideTransition(
                     position: Tween<Offset>(begin: offset, end: Offset.zero)
                         .animate(CurvedAnimation(
-                            curve: Interval(0.4, 1, curve: Curves.easeInCubic),
+                            curve:
+                                Interval(0.4, 1, curve: Curves.easeInOutCubic),
                             parent: animation)),
                     child: child,
                   ),
