@@ -26,8 +26,7 @@ Finalement Le **Développement** c'est coder. Apprendre en pratiquant.
 
 # Full Stack
 
-I decided to use [Futter](https://flutter.dev/?gclid=CjwKCAjwjbCDBhAwEiwAiudBy9PorWkelpr4JagzvtPQLohy0BScHpl7o61yS0v77CPj9i4yruxZ8xoC6DAQAvD_BwE&gclsrc=aw.ds) as Framework since it allows to build beautiful app easily and handle frontend and backend with one single language: [Dart](https://dart.dev/)
-
+I decided to use [Futter](Framework/Flutter/Flutter.md) as Framework since it allows to build beautiful app easily and handle frontend and backend with one single language.
 
 
 <br />
@@ -83,12 +82,6 @@ Toute les manières sont bonnes pour trouver de l'inspiration
 
 # Back End
 
-## Developpement
-
-Créer des class reutilisables dans mes projets.
-
-### Features
-
-- [AuthFeature](Code/Features/auth_feature) - Login/Register page + UserBuilder
+For the moment I use [Firebase](Firebase/Firebase.md) for the backend
 
 
