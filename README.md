@@ -1,10 +1,10 @@
 # Flutter
 
-Je divise l'apprentissage de flutter en deux branches essentielles 
-- Le Design
-- L'Architecture
+En tant que [Fullstack](https://skillcrush.com/blog/front-end-back-end-full-stack/) developer, je vais disiser mon apprentissage en deux catégorie
+- Le front-end (design)
+- Le back-end (architecture, fonctionalité)
 
-Et pour chaqunes de ces branch j'utilise une méthode en 3 étapes
+Et pour chaqunes de ces catégories, j'utilise une méthode en 3 étapes
 - La Recherche
 - L'Apprentissage
 - Et le Développement
