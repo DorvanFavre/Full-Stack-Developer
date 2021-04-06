@@ -9,3 +9,14 @@ comming soon
 ### Dependecies
 
 Dependecies are libraries that adds code features, all available on the [pub.dev](https://pub.dev/) website.
+
+ - [RxDart](https://pub.dev/packages/rxdart/install) Stream features
+ - [Http](https://pub.dev/packages/http/install) Http requests
+
+Firebase
+ - [Firebase Core](https://pub.dev/packages/firebase_core/install)
+ - [Firebase Auth](https://pub.dev/packages/firebase_auth/install)
+ - [Cloud Firestore](https://pub.dev/packages/cloud_firestore/install)
+ - [Cloud Function](https://pub.dev/packages/cloud_functions/install)
+ - [Firebase Messaging](https://pub.dev/packages/firebase_messaging/install)
+ - [Firebase Storage](https://pub.dev/packages/firebase_storage/install)
