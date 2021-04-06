@@ -82,12 +82,6 @@ Toute les manières sont bonnes pour trouver de l'inspiration
 
 # Back End
 
-## Developpement
-
-Créer des class reutilisables dans mes projets.
-
-### Features
-
-- [AuthFeature](Code/Features/auth_feature) - Login/Register page + UserBuilder
+For the moment I use [Firebase](Firebase/Firebase.md) for the backend
 
 
