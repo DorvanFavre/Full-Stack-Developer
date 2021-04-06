@@ -1,6 +1,6 @@
 # Flutter
 
-En tant que [Fullstack](https://skillcrush.com/blog/front-end-back-end-full-stack/) developer, je vais disiser mon apprentissage en deux catégorie
+En tant que [Fullstack](https://skillcrush.com/blog/front-end-back-end-full-stack/) développeur, je vais diviser mon apprentissage en deux catégories
 - Le front-end (design)
 - Le back-end (architecture, fonctionalité)
 
