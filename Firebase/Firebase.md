@@ -2,6 +2,7 @@
 
 ## Getting started
 
- 1. Register a Firebase project and its functionality (firebase init)
- 2. Add dependencies and uses them [Tuto](https://firebase.flutter.dev/docs/overview/)
+ 1. Create a Firebase project on the [Firebase](https://console.firebase.google.com/) website
+ 2. Register a Firebase project and its functionality (firebase init)
+ 3. Add dependencies and uses them - see more on [FlutterFire](https://firebase.flutter.dev/docs/overview/) website
 
