@@ -26,8 +26,7 @@ Finalement Le **Développement** c'est coder. Apprendre en pratiquant.
 
 # Full Stack
 
-I decided to use [Futter](Framework/Flutter/Flutter.md) as Framework since it allows to build beautiful app easily and handle frontend and backend with one single language: [Dart](https://dart.dev/)
-
+I decided to use [Futter](Framework/Flutter/Flutter.md) as Framework since it allows to build beautiful app easily and handle frontend and backend with one single language.
 
 
 <br />
