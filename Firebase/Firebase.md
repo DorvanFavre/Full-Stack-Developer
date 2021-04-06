@@ -8,3 +8,7 @@ Use Firebase with Flutter
  2. Register a Firebase project and its functionality (firebase init)
  3. Add last Firebase [dependencies](https://github.com/DorvanFavre/Full-Stack-Developer/blob/main/Flutter/Flutter.md) and uses them - see more on [FlutterFire](https://firebase.flutter.dev/docs/overview/) website
 
+
+# Advenced Features
+
+ - Two or more apps using One Firebase project - [see more...](multiapp.md)
