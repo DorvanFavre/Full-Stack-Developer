@@ -6,6 +6,6 @@ Flutter is a framework using [dart](https://dart.dev/) language.
 
 comming soon
 
-# Dependecies
+### Dependecies
 
 Dependecies are library adding code features, all available on the [pub.dev](https://pub.dev/) website.
