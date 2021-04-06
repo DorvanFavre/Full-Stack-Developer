@@ -1,4 +1,4 @@
-# Flutter
+# Become a Full Stack Developer using Flutter
 
 En tant que [Fullstack](https://skillcrush.com/blog/front-end-back-end-full-stack/) développeur, je vais diviser mon apprentissage en deux catégories
 - Le front-end (design)
@@ -16,13 +16,24 @@ Finalement Le **Développement** c'est coder. Apprendre en pratiquant.
 
 ## Tables de matières
 
-- [Design](#design)
+- [Full Stack](# Full Stack)
+- [Front End](# Front End)
+- [Back End](# Back End)
 
 <br />
 <br />
+<br />
+
+# Full Stack
+
+I decided to use [Futter](https://flutter.dev/?gclid=CjwKCAjwjbCDBhAwEiwAiudBy9PorWkelpr4JagzvtPQLohy0BScHpl7o61yS0v77CPj9i4yruxZ8xoC6DAQAvD_BwE&gclsrc=aw.ds) as Framework since it allows to build beautiful app easily and handle frontend and backend with one single language: [Dart](https://dart.dev/)
 
 
-# Design
+
+<br />
+<br />
+<br />
+# Front End
 
 ## Recherche
 
@@ -69,7 +80,7 @@ Toute les manières sont bonnes pour trouver de l'inspiration
 <br />
 <br />
 
-# Architecture
+# Back End
 
 ## Developpement
 
