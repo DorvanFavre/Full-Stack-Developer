@@ -20,4 +20,6 @@ Download the app on your personal smartphone the receive notification when a pay
  
 Use cloud function to handle results
 
+ - Official sample code - [see more...](https://github.com/firebase/functions-samples/tree/master/stripe)
+
 Use Firestore to store results
