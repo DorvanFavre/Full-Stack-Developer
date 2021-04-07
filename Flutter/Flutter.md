@@ -32,5 +32,5 @@ Dependecies injection should be done by passing by argument (or context) and not
 
 ## Dart
 
- - Create singleton [code](singleton.dart)
+ - Create singleton - [article](https://stackoverflow.com/questions/12649573/how-do-you-build-a-singleton-in-dart) or [code](singleton.dart)
 
