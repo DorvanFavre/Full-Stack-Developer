@@ -20,3 +20,8 @@ Firebase
  - [Cloud Function](https://pub.dev/packages/cloud_functions/install)
  - [Firebase Messaging](https://pub.dev/packages/firebase_messaging/install)
  - [Firebase Storage](https://pub.dev/packages/firebase_storage/install)
+
+
+## Architecture
+
+ - Global Access vs Scoped Access with Provider - [see more...](https://medium.com/coding-with-flutter/flutter-global-access-vs-scoped-access-with-provider-8d6b94393bdf)
