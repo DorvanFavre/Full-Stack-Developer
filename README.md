@@ -84,4 +84,6 @@ Toute les manières sont bonnes pour trouver de l'inspiration
 
 For the moment I use [Firebase](Firebase/Firebase.md) for the backend
 
+[Stripe](Stripe/Stripe.md) for payment method
+
 
