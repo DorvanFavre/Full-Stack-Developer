@@ -25,3 +25,5 @@ Firebase
 ## Architecture
 
  - Global Access vs Scoped Access with Provider [article](https://medium.com/coding-with-flutter/flutter-global-access-vs-scoped-access-with-provider-8d6b94393bdf)
+
+Dependecies injection should be done by passing by argument (or context) and not global access -> side effect and not testable
