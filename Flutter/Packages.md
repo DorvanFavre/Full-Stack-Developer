@@ -13,4 +13,4 @@ flutter pub upgrade
 ## Versioning
 
 When modifying package, don't forget to change the version number in **pubspec.yaml** <br>
-In the project using this package, run *$ flutter pub upgarde* to get the latest version 
+In the project using this package, run *flutter pub upgrade* to get the latest version 
