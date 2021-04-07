@@ -21,7 +21,7 @@ Firebase
  - [Firebase Messaging](https://pub.dev/packages/firebase_messaging/install)
  - [Firebase Storage](https://pub.dev/packages/firebase_storage/install)
 
-### or [Create my own packges](Packages.md)
+### or [Create my own packages](Packages.md)
 
 
 ## Architecture
