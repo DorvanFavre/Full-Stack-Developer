@@ -30,6 +30,8 @@ Firebase
 
 Dependecies injection should be done by passing by argument (or context) and not global access -> side effect and not testable
 
+ - Uses of interfaces - [article](https://application-evenementielle--test-pk0q9rsv.web.app/)
+
 ## Dart
 
  - Create singleton - [article](https://stackoverflow.com/questions/12649573/how-do-you-build-a-singleton-in-dart) or [code](singleton.dart)
