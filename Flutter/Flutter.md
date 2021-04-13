@@ -37,3 +37,9 @@ Firebase
  - Create singleton - [article](https://stackoverflow.com/questions/12649573/how-do-you-build-a-singleton-in-dart) or [code](singleton.dart)
  - Class named parameter -> default value depending to another - [code][defaultParameter.dart]
 
+## Front End
+
+### Fonts
+
+fontFamily: GoogleFonts.poppins().fontFamily,
+
