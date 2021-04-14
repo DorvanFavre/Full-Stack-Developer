@@ -35,13 +35,33 @@ I decided to use [Futter](Flutter/Flutter.md) as Framework since it allows to bu
 
 # Front End
 
-## Recherche
+Be inspired when it comes to create the best UI/UX 
 
-Toute les manières sont bonnes pour trouver de l'inspiration
+Be able to produce them in code
 
-### Sites / Blogs
+## Exploration / Research
+
+Where can I find UI/UX inspiration ?
+
+### List a lot of designs
 
 - [Envato](https://envato.com/blog/) - Article et vidéos sur le design en général et web
+- [Behance](https://www.behance.net/)
+- [Dribble](https://dribbble.com/)
+- [Awwards](https://www.awwwards.com/)
+- [Pinterest](https://www.pinterest.fr/)
+
+### Download apps
+
+- Instagram
+- Snapchat
+- Whatsapp
+- TikTok
+- UbberEat
+- Zalando
+- Airbnb
+
+### Visit website
 
 
 <br />
