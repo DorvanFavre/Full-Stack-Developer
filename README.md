@@ -50,6 +50,7 @@ Where can I find UI/UX inspiration ?
 - [Dribble](https://dribbble.com/)
 - [Awwards](https://www.awwwards.com/)
 - [Pinterest](https://www.pinterest.fr/)
+- [Sitesee](https://sitesee.co/)
 
 ### Download apps
 
