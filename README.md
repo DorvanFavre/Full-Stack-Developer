@@ -71,6 +71,16 @@ Where can I find UI/UX inspiration ?
 
   L'objectif est d'avoir un maximum de matériel a disposition pour se lancer à coder
   
+  
+### Design principles
+
+12 Design principles - PRO Vs AMATEUR Graphic Design (video)[https://www.youtube.com/watch?v=7d_usbbF2ZU&ab_channel=SatoriGraphics]
+
+Lot more design priciples - Principle.design [website](https://principles.design/examples/)
+  
+
+  
+  
 ### Design UI par style
 
 - [Minimaliste](https://www.pinterest.fr/dorvanfavre/ui-minimaliste/)
