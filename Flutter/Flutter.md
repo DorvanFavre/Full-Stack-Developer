@@ -23,7 +23,9 @@ Firebase
 
 ### or [Create my own packages](Packages.md)
 
+## Navigation
 
+Navigation 2.0 - [Article](https://medium.com/flutter/learning-flutters-new-navigation-and-routing-system-7c9068155ade)
 ## Architecture
 
  - Global Access vs Scoped Access with Provider [article](https://medium.com/coding-with-flutter/flutter-global-access-vs-scoped-access-with-provider-8d6b94393bdf)
