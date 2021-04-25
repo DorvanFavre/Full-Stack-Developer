@@ -80,7 +80,7 @@ Lot more design priciples - Principle.design [website](https://principles.design
   
 ### Portfolios
 
-[video](https://www.youtube.com/watch?v=R7aM6s-x1c0&ab_channel=Flux)
+TOP 5 STUNNING PORTFOLIO WEBSITES: Inspiration for portfolio website [video](https://www.youtube.com/watch?v=R7aM6s-x1c0&ab_channel=Flux)
   
   
 ### Design UI par style
